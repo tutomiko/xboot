@@ -19,4 +19,6 @@ What's in here:
 - algorithms.
 - utilities.
 - custom C-style struct representations using Java classes <=> JSON objects (JSOX)
-- and some other things. It's ~1.5M chars of code, there's a lot of things going on at once.
+- and some other things. It's ~1.5M chars of code and just under 500 source files, so there's a lot of things going on at once.
+
+Some of the implementations are sometimes complex for the sake of being complex (e.g. HTMLParser) because it is FUN to reason about complexity. 
