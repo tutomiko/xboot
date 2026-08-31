@@ -8,3 +8,7 @@ I don't write Java anymore but you can find some pretty dumb and perhaps some in
 You don't get the tests. I can't find them anymore.
 
 PERSONAL TESTING AND PRACTICE LIBRARY. DO NOT USE IN PRODUCTION.
+
+Lots of framework design here. Conceptual roots for the Not Another Monolith architecture come from the failures of the many that lay beneath this monolith. 
+It's the "publish" package with the GWX framework. Definitely check that out.
+
